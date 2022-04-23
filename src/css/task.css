@@ -1,0 +1,7 @@
+.task-item{
+
+}
+
+.task-done > span{
+    text-decoration: line-through;
+}
